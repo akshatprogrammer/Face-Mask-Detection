@@ -1,8 +1,9 @@
-imutils
-matplotlib
-opencv_python
-playsound
-scikit_learn
-streamlit
-tensorflow=
-
+imutils==0.5.3
+matplotlib==3.2.1
+numpy==1.22.3
+opencv_python==4.2.0.34
+playsound==1.2.2
+scikit_learn==1.1.0
+streamlit==1.3.0
+tensorflow==2.4.1
+~umpy==1.18.1
